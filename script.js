@@ -57,6 +57,13 @@ let all_songs = [
         img: "images/i_skeletons.jpg",
         singer: "keshi",
         contributor: "Contributed By Anirban"
+    },
+    {
+        name: "Blank Space",
+        path: "songs/blankspace.mp3",
+        img: "images/i_blankspace.jpg",
+        singer: "Taylor Swift",
+        contributor: "Contributed By Sayantan"
     }
 ];
 

@@ -64,6 +64,27 @@ let all_songs = [
         img: "images/i_blankspace.jpg",
         singer: "Taylor Swift",
         contributor: "Contributed By Sayantan"
+    },
+    {
+        name: "Tere Bina",
+        path: "songs/terebina.mp3",
+        img: "images/i_terebina.jpg",
+        singer: "Priya Saraiya",
+        contributor: "Contributed By Sridatri"
+    },
+    {
+        name: "Chal Wahan Jatein Hain",
+        path: "songs/chalwahan.mp3",
+        img: "images/i_chalwahan.jpg",
+        singer: "Arijit Singh",
+        contributor: "Contributed By Nilanjan"
+    },
+    {
+        name: "Love Me Like You Do",
+        path: "songs/likeyoudo.mp3",
+        img: "images/i_likeyoudo.jpg",
+        singer: "Ellie Goulding",
+        contributor: "Contributed By Nilanjan"
     }
 ];
 
